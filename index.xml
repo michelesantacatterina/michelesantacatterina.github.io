@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Harvard - Machine Learning and Causal Inference Reading group</title>
+      <link>https://michelesantacatterina.github.io/talk/harvard-mlci/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/talk/harvard-mlci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust weights that optimally balance confounders for estimating the effect of binary and continuous treatments with time-to-event data</title>
       <link>https://michelesantacatterina.github.io/publication/row/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
@@ -234,15 +243,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/acic2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cornell - AI Seminar</title>
-      <link>https://michelesantacatterina.github.io/talk/ai-seminar/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/ai-seminar/</guid>
       <description></description>
     </item>
     
