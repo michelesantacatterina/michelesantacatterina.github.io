@@ -11,11 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
+      <link>https://michelesantacatterina.github.io/publication/kow/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines</title>
+      <link>https://michelesantacatterina.github.io/publication/vacc-nejm/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/vacc-nejm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep survival analysis with longitudinal X-rays for COVID-19</title>
       <link>https://michelesantacatterina.github.io/publication/deep_surv/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/deep_surv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More robust estimation of average treatment effects using kernel optimal matching in an observational study of spine surgical interventions</title>
+      <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
       <description></description>
     </item>
     
@@ -96,6 +123,8 @@
 &lt;p&gt;Manuscripts:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Santacatterina, M., Sanders JW, Weintraub WS, and the North Carolina Covid-19 Community Research Partnership (2021). &lt;a href=&#34;https://www.nejm.org/doi/10.1056/NEJMc2113575&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Prevention of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines&lt;/em&gt;&lt;/a&gt;, The New England Journal of Medicine, 2021&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Shu, M., Bowen, R. S., Herrmann, C., Qi, G., Santacatterina, M., &amp;amp; Zabih, R. (2021). &lt;a href=&#34;https://arxiv.org/abs/2108.09641&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Deep survival analysis with longitudinal X-rays for COVID-19&lt;/em&gt;&lt;/a&gt;, ICCV21, 2021&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;The COVID-19 Community Research Partnership Study Group. &lt;a href=&#34;https://arxiv.org/abs/2108.09641&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Duration of SARS-CoV-2 sero-positivity in a large longitudinal sero-surveillance cohort: the COVID-19 Community Research Partnership&lt;/em&gt;&lt;/a&gt;, BMC Infectious Diseases, 2021&lt;/p&gt;&lt;/li&gt;
@@ -234,33 +263,6 @@
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/quant_cens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatments</title>
-      <link>https://michelesantacatterina.github.io/publication/koiw/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/koiw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching</title>
-      <link>https://michelesantacatterina.github.io/publication/gate/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CAB: Continuous Adaptive Blending Estimator for Policy Evaluation and Learning</title>
-      <link>https://michelesantacatterina.github.io/publication/cab/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/cab/</guid>
       <description></description>
     </item>
     

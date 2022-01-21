@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
+      <link>https://michelesantacatterina.github.io/publication/kow/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines</title>
+      <link>https://michelesantacatterina.github.io/publication/vacc-nejm/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/vacc-nejm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep survival analysis with longitudinal X-rays for COVID-19</title>
@@ -18,6 +36,15 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/deep_surv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More robust estimation of average treatment effects using kernel optimal matching in an observational study of spine surgical interventions</title>
+      <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
       <description></description>
     </item>
     
@@ -32,7 +59,7 @@ The code for the simulations and the case studies analyses is provided here: htt
     </item>
     
     <item>
-      <title>Optimal Estimation of Generalized Average Treatment Effects via Kernel Optimal Matching</title>
+      <title>Optimal Weighting for Estimating Generalized Average Treatment Effects</title>
       <link>https://michelesantacatterina.github.io/publication/gate/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
@@ -46,24 +73,6 @@ The code for the simulations and the case studies analyses is provided here: htt
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/cab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>More robust estimation of sample average treatment effects using Kernel Optimal Matching in an observational study of spine surgical interventions</title>
-      <link>https://michelesantacatterina.github.io/publication/kom-sate/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/kom-sate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal balancing of time-dependent confounders for marginal structural models</title>
-      <link>https://michelesantacatterina.github.io/publication/kow/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/kow/</guid>
       <description></description>
     </item>
     
