@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://michelesantacatterina.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Non-parametric efficient estimation of marginal structural models with continuous time-varying treatments</title>
+      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Uncertainty Quantification for Kernel-Based Estimators in Large-Scale Causal Inference</title>
+      <link>https://michelesantacatterina.github.io/publication/causalblb_kernel/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/causalblb_kernel/</guid>
+      <description>The R code is available here: https://github.com/mdk31/kernel-blb</description>
+    </item>
+    
+    <item>
+      <title>Causal Survival Analysis in Platform Trials with Non-Concurrent Controls</title>
+      <link>https://michelesantacatterina.github.io/publication/surv_platform/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/surv_platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeDPO: Debiased Direct Preference Optimization for Diffusion Models</title>
+      <link>https://michelesantacatterina.github.io/publication/dedpo/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/dedpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
+      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design</title>
@@ -18,24 +63,6 @@
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/spcd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
-      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
-      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
       <description></description>
     </item>
     

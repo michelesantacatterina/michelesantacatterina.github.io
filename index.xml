@@ -20,6 +20,52 @@
     </item>
     
     <item>
+      <title>Non-parametric efficient estimation of marginal structural models with continuous time-varying treatments</title>
+      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Uncertainty Quantification for Kernel-Based Estimators in Large-Scale Causal Inference</title>
+      <link>https://michelesantacatterina.github.io/publication/causalblb_kernel/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/causalblb_kernel/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; code is available here: &lt;a href=&#34;https://github.com/mdk31/kernel-blb&#34; target=&#34;_blank&#34;&gt;https://github.com/mdk31/kernel-blb&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal Survival Analysis in Platform Trials with Non-Concurrent Controls</title>
+      <link>https://michelesantacatterina.github.io/publication/surv_platform/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/surv_platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeDPO: Debiased Direct Preference Optimization for Diffusion Models</title>
+      <link>https://michelesantacatterina.github.io/publication/dedpo/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/dedpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
+      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Clarifying identification and estimation of treatment effects in the Sequential Parallel Comparison Design</title>
       <link>https://michelesantacatterina.github.io/publication/spcd/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
@@ -53,29 +99,11 @@ Donald Goff (co-Investigator)&lt;/p&gt;
     </item>
     
     <item>
-      <title>Modern causal inference approaches to improve power for subgroup analysis in randomized controlled trials</title>
-      <link>https://michelesantacatterina.github.io/publication/subgroup/</link>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/subgroup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Identification and estimation of causal effects using non-concurrent controls in platform trials</title>
       <link>https://michelesantacatterina.github.io/publication/nonconc/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://michelesantacatterina.github.io/publication/nonconc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-parametric efficient estimation of marginal structural models with multi-valued time-varying treatments</title>
-      <link>https://michelesantacatterina.github.io/publication/npmsm/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/npmsm/</guid>
       <description></description>
     </item>
     
@@ -148,37 +176,6 @@ Jonathan Newman (Co-Principal Investigator)&lt;/p&gt;
       <pubDate>Tue, 18 Apr 2023 00:00:00 -0400</pubDate>
       
       <guid>https://michelesantacatterina.github.io/talk/msinai23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust weights that optimally balance confounders for estimating marginal hazard ratios</title>
-      <link>https://michelesantacatterina.github.io/publication/row/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/row/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;R&lt;/strong&gt; package (with instructions on how to install the package and several examples) is available here: &lt;a href=&#34;https://github.com/michelesantacatterina/ROW&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The code for the simulations and the case studies analyses is provided here:
-&lt;a href=&#34;https://github.com/michelesantacatterina/ROW-time-to-event&#34; target=&#34;_blank&#34;&gt;https://github.com/michelesantacatterina/ROW-time-to-event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2022 IMS International Conference on Statistics and Data Science (ICSDS)</title>
-      <link>https://michelesantacatterina.github.io/talk/icsds22/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/talk/icsds22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Weighting for Estimating Generalized Average Treatment Effects</title>
-      <link>https://michelesantacatterina.github.io/publication/gate/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://michelesantacatterina.github.io/publication/gate/</guid>
       <description></description>
     </item>
     
